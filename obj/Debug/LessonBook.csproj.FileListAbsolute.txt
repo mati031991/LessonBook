@@ -1,0 +1,13 @@
+C:\private_repo\LessonBook\obj\Debug\LessonBook.csprojAssemblyReference.cache
+C:\private_repo\LessonBook\obj\Debug\LessonBook.AddStudentForm.resources
+C:\private_repo\LessonBook\obj\Debug\LessonBook.Main.resources
+C:\private_repo\LessonBook\obj\Debug\LessonBook.Properties.Resources.resources
+C:\private_repo\LessonBook\obj\Debug\LessonBook.csproj.GenerateResource.cache
+C:\private_repo\LessonBook\obj\Debug\LessonBook.csproj.CoreCompileInputs.cache
+C:\private_repo\LessonBook\bin\Debug\LessonBook.exe.config
+C:\private_repo\LessonBook\bin\Debug\LessonBook.exe
+C:\private_repo\LessonBook\bin\Debug\LessonBook.pdb
+C:\private_repo\LessonBook\obj\Debug\LessonBook.exe
+C:\private_repo\LessonBook\obj\Debug\LessonBook.pdb
+C:\private_repo\LessonBook\obj\Debug\LessonBook.AddNoteForm.resources
+C:\private_repo\LessonBook\obj\Debug\LessonBook.DisplayNoteForm.resources
